@@ -1,9 +1,9 @@
 # COVID19---EDA-Using-python
 **Summary** :
-I Divided "COVID-19 Data analysis and Impact of lockdown in India" Project into three steps. In the first step all the necessary libraries are imported then Loading and prepartion of dataset takes place and in second step I analyze the Global spread of the COVID-19 Virus in several steps and Finally I perform Data Analysis on India Data of COVID-19 Virus and plot some graphs to see the impact of the lockdown in India and to check whether the lockdown is effective or not.
+The project titled “COVID-19 Data Analysis and Impact of Lockdown in India” is divided into three main steps. In the first step, all the necessary libraries are imported, followed by loading and preparing the dataset. The second step involves analyzing the global spread of COVID-19 through multiple stages. Finally, the third step focuses on data analysis specific to India, where various graphs are plotted to visualize the impact of the lockdown and assess its effectiveness.
 
 
-**Note** : Output Plots are not showing on the Uploaded Jupyter Notebook. So Separate folder is Uploaded with Output Plots Images. 
+**Note** : The output plots are not visible in the uploaded Jupyter Notebook. A separate folder containing the output plot images has been uploaded for reference.
 
 ***The Dataset used for this analysis is last Updated on 26/NOV/2020***
 <br>
